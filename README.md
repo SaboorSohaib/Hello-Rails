@@ -129,11 +129,11 @@ Clone this repository to your desired folder:
 
 To run the project, execute the following command:
 
-- ./main.rb.
+- rails server.
 
 ### Run tests
 
-- rspect.
+- rspec.
 
 ### Check Linter 
 
